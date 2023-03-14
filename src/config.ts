@@ -1,7 +1,7 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://blog-livid-beta.vercel.app/",
   author: "Yousaf Wazir",
   desc: "Yousaf Wazirs blog",
   title: "Blog",
