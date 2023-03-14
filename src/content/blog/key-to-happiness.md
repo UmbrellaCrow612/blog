@@ -20,8 +20,14 @@ description: How does one achieve happiness, become better live a fulfilling lif
 
 To realize you should do only what is in your control and anything outside of that you shouldn't care about in mind, body and soul.
 
-Live each day as thou it where your last. Be better, pursue excellence and become happy. 
+Live each day as thou it where your last. 
+
+Be better, pursue excellence and become happy. 
 
 Get rid of anything that stops you doing those, these could be thoughts, ideas, lack of practice. 
 
 Embody this and soon you'll realize your happiness.
+
+This is just a small part, to understand this for yourselves read about the stoics; Marcus Aurelius Meditations, Epictetus and senecas work and much more.
+
+Be a stoic rather than knowing of them, but to do that one must understand what to become.
